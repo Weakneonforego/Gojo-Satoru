@@ -19,26 +19,26 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
-global.footer = '( غـوجـو )'
+global.owner = ['971544517448']
+global.premium = ['971544517448']
+global.ownernomer = '971544517448'
+global.ownername = '( يوهاباخ)'
+global.botname = '( بـوت ألوكا)'
+global.footer = '( الوكا )'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
 global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
 global.packname = 'https://Wa.Me/+96891103640'
-global.author = '[ غـوجـو ]'
+global.author = '[ يوهاباخ ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓',
+    success: 'تم✓',
     admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
     botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
-    owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
+    owner: '*「 هـذا الامـر فـقـط لـ جلالة الملك يوها 」◣*',
     group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
     bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
